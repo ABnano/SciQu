@@ -3,6 +3,8 @@
 ## Project Overview
 
 SciQu is an innovative tool designed to streamline the literature review process by automating data extraction and query handling from PDF files. Built using Streamlit for the user interface and various LangChain components for backend processing, SciQu facilitates efficient and accurate retrieval of information from scientific documents.
+![Sci_Qu](https://github.com/ABnano/SciQu/assets/72018919/589135f4-cba6-4519-8f43-a74ec911267f)
+
 
 ### Key Features
 
